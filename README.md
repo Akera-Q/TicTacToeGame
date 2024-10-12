@@ -10,4 +10,4 @@ In the Javascript file, first off we define a variables: origBoard contains the 
 then we define each winning combo so the AI knows what to do, the next constant is "cells" which allows us to use the "cell" class without calling it each time.
  Now for functions, the first one "startGame" removes the "endgame" screen, then it passes over each cell and removes any text in it, any background color it optained, 
 and adds an event listener that triggers the turnClick function when a cell is clicked.
-The turnClick function      ---DELETE LATER<FIRST COMMIT, GONNA REST A BIT>---
+The turnClick function      ---DELETE LATER<FIRST COMMIT, GONNA REST A BIT(we were asking chatgpt to explain each function)>---
